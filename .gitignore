@@ -1,0 +1,3 @@
+main
+*.o
+src/block_chain/*.o
