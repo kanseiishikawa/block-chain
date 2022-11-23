@@ -1,7 +1,8 @@
-#include <arpa/inet.h>
+#include <cstring>
 #include <string>
-#include <sys/socket.h>
 #include <unistd.h>
+#include <arpa/inet.h>
+#include <sys/socket.h>
 
 class UdpConnect{
     int sock;
