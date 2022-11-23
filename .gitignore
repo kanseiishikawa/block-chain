@@ -1,3 +1,4 @@
 main
 *.o
 src/block_chain/*.o
+src/connect/*.o
